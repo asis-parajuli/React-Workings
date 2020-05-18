@@ -2,7 +2,8 @@
 
 #### Babel
 ```
-Babel converts React code into traditional into traditional html, css and js code so that every browser out there can understand the code.
+Babel converts React code into traditional into traditional html, css and js code so that every 
+browser out there can understand the code.
 ```
 
 #### Webpack
